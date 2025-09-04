@@ -5,6 +5,6 @@
 
   # kimANDlab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[kimandlab.github.io/kimandlab](https://kimandlab.github.io/kimandlab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
